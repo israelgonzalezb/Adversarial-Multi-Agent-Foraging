@@ -1,0 +1,5 @@
+{
+  "name": "AMAF-01: Stigmergic Optimization",
+  "description": "A high-performance visualization of Distributed Agent Minimax (DAM) mechanics, utilizing stigmergic traces and adversarial repulsion to solve optimal distribution on a resource manifold.",
+  "requestFramePermissions": []
+}
